@@ -20,7 +20,7 @@ public double perimeter(){
 }
 
 public double area(){
-    return this.length * this.width;
+    return (this.length * this.width);
 }
 
 }
